@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+    color: black;
+}
+p{
+    background-color: aquamarine;
+    padding: 10px;
+}
+button{
+    color: black;
+    background-color: red;
+    padding: 10px 15px;
+}
